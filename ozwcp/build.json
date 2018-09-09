@@ -7,7 +7,7 @@
   },
   "args": {
     "OPENZWAVE_VERSION": "ac28fcbb01707daeff93509ba7788f26b7d9471e",
-    "OPENZWAVE_REPO": "https://github.com/OpenZWave/open-zwave.git",
+    "OPENZWAVE_REPO": "https://github.com/drogfild/open-zwave.git",
     "OPENZWAVE_CONTROL_PANEL_VERSION": "bbbd461c5763faab4949b12da12901f2d6f00f48",
     "OPENZWAVE_CONTROL_PANEL_REPO": "https://github.com/OpenZWave/open-zwave-control-panel.git"
   }
